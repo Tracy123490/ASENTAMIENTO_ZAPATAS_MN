@@ -1,4 +1,0 @@
-streamlit>=1.57
-numpy
-pandas
-matplotlib
